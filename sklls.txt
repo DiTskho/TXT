@@ -1,1 +1,5 @@
-git, python
+Testing API via Postman
+Python
+Basic Theory
+SQL Basics
+Basics of bash scripting
