@@ -1,8 +1,11 @@
 Bug report
-Status: closed
-Author: Mark
-Assigned to: Madina
-Steps to reproduce: ...
-Result: ...
-Expected result: ...
-Attachment: ...
+Summary - Error messages in the login form are displayed in English
+Environment - All browsers / devices
+Severity - Major
+Steps to Reproduce - 1. Open front ena https://www.hh.be:8443/
+		   - 2. Follow "lngloggen" link
+		   - 3. Fill required fields with invalid data
+		   - 4. Click "lnloggen" button
+		   - 5. Pay attention to error messages
+Actual Result - Error messages in the login form are displayes in the English
+Expected Result - Errir messages in the login form are displayes in the chosen language
